@@ -15,10 +15,6 @@
 
 - **View All Employees**: Fetch all employees from the database in a single click.
 
-## Screenshots
-
-Screenshots are available in the `screenshots/` directory.
-
 ## Setup
 - Clone repo
 ```sh
